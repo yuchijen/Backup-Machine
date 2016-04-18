@@ -1,0 +1,6 @@
+<lastBackUp  backUpTime="($DateTime.Now)" >
+<StartDate>($DateTime.Previous)</StartDate>
+<EndDate>($DateTime.Now)</EndDate>
+<status>($String.Status)</status>
+</lastBackUp>
+
